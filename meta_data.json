@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "ecommerce",
+        "1": "payment",
+        "2": "small business",
+        "3": "technical",
+        "4": "location"
+    },
+    "description": "A full-featured API with support for calculating shipment prices, generating postage, and tracking shipments. Great for marketplaces and more!                                                             \n\n========SETUP=========\n\n1. Create an EasyPost account\n2. Set the 'Authorization' field as your API Key, prefixed with 'Basic' and a space (e.g. \"Basic api_key\" where 'api_key' is your API Key)\n\n======PLUGIN PAGE======\n\nWant to get notified of new features, upcoming updates, sponsorship rounds, known bugs and more?\nSubscribe to this plugin at https://withcopilot.com/plugins\n\n====== RESOURCES ======\n\nNeed to reference SendGrid's own documentation?\nVisit https://www.easypost.com/docs/api\n\nFind a bug? \nSubmit a bug report at https://withcopilot.com/contact\n\nInterested in courses? \nCheck out https://withcopilot.com/courses\n\nPrefer one-on-one assistance? \nBook half-an-hour with us at https://withcopilot.com/sessions\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1550957055601x232403577399667100/easypost.svg",
+    "instructions": "1. Obtain an API key from EasyPost\n2. In the Plugins tab, set the Authorization key to 'Basic' followed by a space followed by your API key followed by a colon. The entire format should be 'Basic <api_key>:' (without apostrophes).\n3. Refer to EasyPost's documentation to learn more about the specifics of each available API request.",
+    "license": "open_source",
+    "link": "https://withcopilot.com/plugins/easypost",
+    "name": "EasyPost",
+    "plugin_instructions": "========SETUP=========\n\n1. Create an EasyPost account\n2. Set the 'Authorization' field as your API Key, prefixed with 'Basic' and a space (e.g. \"Basic api_key\" where 'api_key' is your API Key)\n\n======PLUGIN PAGE======\n\nWant to get notified of new features, upcoming updates, sponsorship rounds, known bugs and more?\nSubscribe to this plugin at https://withcopilot.com/plugins\n\n====== RESOURCES ======\n\nNeed to reference SendGrid's own documentation?\nVisit https://www.easypost.com/docs/api\n\nFind a bug? \nSubmit a bug report at https://withcopilot.com/contact\n\nInterested in courses? \nCheck out https://withcopilot.com/courses\n\nPrefer one-on-one assistance? \nBook half-an-hour with us at https://withcopilot.com/sessions",
+    "sa_node_version": 18
+}
